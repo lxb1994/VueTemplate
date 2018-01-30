@@ -28,7 +28,7 @@ npm install vue-cli -g
 
 初始化模版
 ```
-vue init lxb1994/VueTemplate ProjectName
+vue init lxb1994/VueTemplate <ProjectName>
 ```
 
 ```
