@@ -2,8 +2,8 @@ import { SignIn, SignUp } from '@/Routes'
 
 // 桉需加载
 const Home = resolve => {
-  require.ensure(['./views/Home/Home.vue'], () => {
-    resolve(require('./views/Home/Home.vue'))
+  require.ensure(['../../Routes/Home/Home.vue'], () => {
+    resolve(require('../../Routes/Home/Home.vue'))
   })
 }
 
