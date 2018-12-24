@@ -16,7 +16,7 @@
     "vue-router": "2.6.0",
     "vuex": "2.3.1",
     "vuex-persistedstate": "1.4.1",
-    "moment": "2.20.1",
+    "moment": "2.20.1"
   },
   "devDependencies": {
     "babel-core": "6.25.0",
