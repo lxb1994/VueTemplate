@@ -8,7 +8,7 @@ var isProd = process.env.NODE_ENV === 'production'
 module.exports = {
   entry: {
     build: './src/main.js',
-    vendor: ['vue', 'vuex', 'vue-resource', 'vue-router', 'vuex-persistedstate']
+    vendor: ['vue', 'vuex', 'vue-router', 'vuex-persistedstate']
   },
   output: {
     path: path.resolve(__dirname, './dist'),
