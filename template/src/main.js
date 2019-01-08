@@ -7,7 +7,6 @@ import routers from './routers'
 // import { filters } from './common'
 
 import './Scss/global'
-import 'iview/dist/styles/iview.css'
 
 Vue.use(Vuex)
 Vue.use(Router)
