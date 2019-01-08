@@ -1,5 +1,5 @@
-@import "_Reset";
-@import "_Media";
+@import "_reset";
+@import "_media";
 
 /**
  * varable
@@ -65,7 +65,7 @@
 	height:$height;
 };
 
-@mixin TimsonBaseClass(){
+@mixin BaseClass(){
 	.flex{
 		display: flex;
 	}
@@ -160,7 +160,7 @@
  * placeholder
  */
 %resetFont{
-	font:{
+	font: {
 		size:100%;
 		family:'Microsoft YaHei','Arial','Helvetica','Tahoma';
 	}

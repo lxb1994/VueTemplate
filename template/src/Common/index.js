@@ -4,8 +4,8 @@ import validations from './validations'
 import filters from './filters'
 
 export {
-	services,
-	utils,
-	validations,
-	filters
+  services,
+  utils,
+  validations,
+  filters
 }

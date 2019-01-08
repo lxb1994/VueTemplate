@@ -1,5 +1,5 @@
 <template>
-	<div id="Templates" class="Templates">
+	<div id="templates" class="templates">
 		Templates
 	</div>
 </template>
@@ -9,7 +9,7 @@
 	import {  } from './module'
 
 	export default{
-		name: 'Templates',
+		name: 'templates',
 		data() {
 			const _res = {}
 			return _res
