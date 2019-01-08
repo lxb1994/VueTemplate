@@ -1,6 +1,6 @@
 <template>
-	<div id="Home" class="Home">
-		Home
+	<div id="home" class="home">
+		home
 	</div>
 </template>
 
@@ -9,7 +9,7 @@
 	import {  } from './module'
 
 	export default{
-		name: 'Home',
+		name: 'home',
 		data() {
 			const _res = {}
 			return _res
@@ -30,7 +30,4 @@
 </script>
 
 <style lang="scss">
-	#Home{
-		
-	}
 </style>
