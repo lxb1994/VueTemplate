@@ -2,7 +2,7 @@
   "name": "my-vue",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "liuxiaobo <smr5696@dingtalk.com>",
+  "author": "lxb",
   "private": true,
   "scripts": {
     "gen": "node ./tools/generator/index.js r",
