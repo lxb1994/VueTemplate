@@ -27,7 +27,7 @@
     "babel-preset-stage-3": "6.24.1",
     "cross-env": "3.0.0",
     "css-loader": "0.25.0",
-    "eslint": "4.0.0",
+    "eslint": "6.6.0",
     "eslint-plugin-html": "3.0.0",
     "extract-text-webpack-plugin": "2.0.0",
     "html-webpack-plugin": "2.29.0",
